@@ -4,7 +4,7 @@ passworld : 139874
 Technologies
 
 Java,
-Swimg,
+Swing,
 JDBC,
 MySql,
 Apache Netbeans IDE 15,
