@@ -1,5 +1,5 @@
 user name : büşra,
-passworld : 139874
+password : 139874
 
 Technologies
 
