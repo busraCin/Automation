@@ -1,3 +1,15 @@
+user name : büşra,
+passworld : 139874
+
+Technologies
+
+Java,
+Swimg,
+JDBC,
+MySql,
+Apache Netbeans IDE 15,
+XAMPP
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
@@ -30,3 +42,16 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+![ss](https://user-images.githubusercontent.com/69642923/201514827-9e5de485-f923-45bb-9a4e-0fb84f226952.png)
+
+![bir](https://user-images.githubusercontent.com/69642923/201514842-f2e855c2-c65a-4096-b7ab-a5c1feeca801.png)
+
+![3](https://user-images.githubusercontent.com/69642923/201514848-298239ad-3eee-4a8c-a211-f064bf5c1f5d.png)
+
+![UML](https://user-images.githubusercontent.com/69642923/201514864-14d83f77-6588-4f6a-9010-bc07b1b48f6f.png)
+
+![db filimler](https://user-images.githubusercontent.com/69642923/201514868-ff0da207-3174-4396-bcfc-2c095a157fa8.png)
+
+![db](https://user-images.githubusercontent.com/69642923/201514871-14e6b965-ab92-41e3-8803-ebc0b42cb0da.png)
+
